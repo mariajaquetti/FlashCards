@@ -32,6 +32,10 @@ h3 {
    position: absolute;
    height: 100%;
    width: 100%;
+   border-radius: 1rem;
+    box-sizing: border-box;
+    padding: 2rem;
+    border: 2px solid rgba(167, 111, 220, 0.6)
  }
 
  .cartao__conteudo__resposta {
@@ -51,6 +55,7 @@ h3 {
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
+    border-radius: 1rem;
  }
 
  .cartao__conteudo p {
@@ -65,6 +70,7 @@ h3 {
     background-color: var(--card-front-color);
     transform-style: preserve-3d;
     transition: transform 600ms ease-in-out;
+    border-radius: 1rem;
  }
 
  .cartao.active .cartao__conteudo {

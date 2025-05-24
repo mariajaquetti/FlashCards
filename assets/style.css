@@ -1,0 +1,20 @@
+h3 {
+    font-family: "Josefin Sans", sans-serif;
+    color: ghostwhite;
+}
+.cartao__conteudo__resposta {
+    font-family: "Abel", sans-serif;
+    color: rgb(235, 176, 209);
+ }
+ .cartao__conteudo__pergunta {
+    font-family: "Abel", sans-serif;
+    color: rgb(255, 255, 255);
+ }
+ body {
+    background-color: rgb(55, 6, 32);
+ }
+ footer {
+    font-family: "Josefin Sans";
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.286);
+ }

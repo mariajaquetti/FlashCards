@@ -1,5 +1,10 @@
 criaCartao(
     'Científico',
+    'O que é nuvem lenticular?',
+    'É uma formação atmosférica com forma de lente ou disco, tipicamente estacionária, que se forma em áreas de relevo elevado, como montanhas.',
+)
+criaCartao(
+    'Científico',
     'O que causa a neve colorida?',
     'Neve colorida é um fenómeno natural em que a neve adquire uma cor diferente do branco, geralmente por causa de algas, poluição ou outros materiais que se acumulam sobre a neve.',
 )

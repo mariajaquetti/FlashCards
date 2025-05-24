@@ -80,6 +80,29 @@ h3 {
  body {
     background: url(img/Background.jpg);
  }
+
+
+@media (max-width: 560px) {
+
+    body {
+        background: url('img/Background.jpg');
+         background-size: cover;
+    }
+    
+    .cartao {
+        flex: 1 0 calc(100% - 1rem);
+    }
+    
+    .cartao__conteudo h3 {
+        font-size: 3vw;
+    }
+    
+    .cartao__conteudo p {
+        font-size: 3.8vw;
+    }
+}
+
+
  footer {
     font-family: "Josefin Sans";
     color: rgb(255, 255, 255);
